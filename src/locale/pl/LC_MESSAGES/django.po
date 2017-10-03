@@ -14,6 +14,7 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: pl\n"
+
 "X-Crowdin-File: /master/src/locale/pt/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/settings/base.py:219
