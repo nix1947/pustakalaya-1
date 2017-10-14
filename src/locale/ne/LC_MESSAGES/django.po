@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-26 15:29+0545\n"
-"PO-Revision-Date: 2017-10-03 00:01-0400\n"
+"PO-Revision-Date: 2017-10-13 23:50-0400\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Nepali\n"
 "Language: ne_NP\n"
@@ -41,27 +41,27 @@ msgstr "अडियो प्रकार"
 
 #: pustakalaya_apps/audio/models.py:34
 msgid "Add this audio to these collection"
-msgstr ""
+msgstr "यो अडियो यी संग्रहहरुमा थप्नुहोस"
 
 #: pustakalaya_apps/audio/models.py:43 pustakalaya_apps/video/models.py:81
 msgid "Running time in minutes"
-msgstr ""
+msgstr "अवधि (मिनेटमा)"
 
 #: pustakalaya_apps/audio/models.py:52
 msgid "Read / Voice by"
-msgstr ""
+msgstr "आवाज"
 
 #: pustakalaya_apps/audio/models.py:58
 msgid "Audio publisher"
-msgstr ""
+msgstr "प्रकाशक"
 
 #: pustakalaya_apps/audio/models.py:63
 msgid "Audio Category"
-msgstr ""
+msgstr "सङ्ग्रह"
 
 #: pustakalaya_apps/audio/models.py:68 pustakalaya_apps/document/models.py:142
 msgid "Select list of keywords"
-msgstr ""
+msgstr "मुख्य शब्दावलीहरू छनौट गर्नुहोस्"
 
 #: pustakalaya_apps/audio/models.py:73
 msgid "Audio Genre"
@@ -74,7 +74,7 @@ msgstr ""
 #: pustakalaya_apps/audio/models.py:83 pustakalaya_apps/document/models.py:152
 #: pustakalaya_apps/video/models.py:62
 msgid "Sponsor"
-msgstr ""
+msgstr "प्रायोजक"
 
 #: pustakalaya_apps/audio/models.py:147
 msgid "Genre name"
@@ -87,7 +87,7 @@ msgstr ""
 #: pustakalaya_apps/audio/models.py:173 pustakalaya_apps/document/models.py:232
 #: pustakalaya_apps/video/models.py:142
 msgid "File name"
-msgstr ""
+msgstr "फाइलको नाम"
 
 #: pustakalaya_apps/collection/apps.py:7
 msgid "Categories"
@@ -119,11 +119,11 @@ msgstr ""
 
 #: pustakalaya_apps/collection/models.py:31
 msgid "Collection name"
-msgstr ""
+msgstr "सङ्ग्रह"
 
 #: pustakalaya_apps/collection/models.py:37
 msgid "Collection description"
-msgstr ""
+msgstr "सङ्ग्रहको विवरण"
 
 #: pustakalaya_apps/community/models.py:23
 msgid "Community description"
@@ -182,7 +182,7 @@ msgstr ""
 
 #: pustakalaya_apps/core/abstract_models.py:88
 msgid "Primary level"
-msgstr ""
+msgstr "प्राथमिक तह"
 
 #: pustakalaya_apps/core/abstract_models.py:89
 msgid "Middle school level"
@@ -220,40 +220,40 @@ msgstr ""
 #: pustakalaya_apps/core/abstract_models.py:104
 #: pustakalaya_apps/document/apps.py:7
 msgid "Document"
-msgstr ""
+msgstr "डकुमेन्ट"
 
 #: pustakalaya_apps/core/abstract_models.py:106
 #: pustakalaya_apps/video/apps.py:7
 msgid "Video"
-msgstr ""
+msgstr "भिडियो"
 
 #: pustakalaya_apps/core/abstract_models.py:107
 msgid "Image"
-msgstr ""
+msgstr "फोटो"
 
 #: pustakalaya_apps/core/abstract_models.py:108
 msgid "Wikipedia"
-msgstr ""
+msgstr "विकिपिडिया"
 
 #: pustakalaya_apps/core/abstract_models.py:109
 msgid "Map"
-msgstr ""
+msgstr "नक्सा"
 
 #: pustakalaya_apps/core/abstract_models.py:115
 msgid "Title"
-msgstr ""
+msgstr "शिर्षक"
 
 #: pustakalaya_apps/core/abstract_models.py:121
 msgid "Abstract"
-msgstr ""
+msgstr "सारांश"
 
 #: pustakalaya_apps/core/abstract_models.py:125
 msgid "Education Level"
-msgstr ""
+msgstr "शैक्षिक स्तर"
 
 #: pustakalaya_apps/core/abstract_models.py:132
 msgid "Language"
-msgstr ""
+msgstr "भाषा"
 
 #: pustakalaya_apps/core/abstract_models.py:141
 msgid "Citation"
