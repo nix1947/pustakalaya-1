@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-26 15:29+0545\n"
-"PO-Revision-Date: 2017-10-13 23:50-0400\n"
+"PO-Revision-Date: 2017-10-18 02:50-0400\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Nepali\n"
 "Language: ne_NP\n"
@@ -65,7 +65,7 @@ msgstr "मुख्य शब्दावलीहरू छनौट गर्
 
 #: pustakalaya_apps/audio/models.py:73
 msgid "Audio Genre"
-msgstr ""
+msgstr "विधा"
 
 #: pustakalaya_apps/audio/models.py:78
 msgid "Audio Series / Volume"
