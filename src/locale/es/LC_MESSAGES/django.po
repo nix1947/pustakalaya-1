@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: pustakalaya\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-09-26 15:29+0545\n"
-"PO-Revision-Date: 2017-11-17 06:21-0500\n"
+"PO-Revision-Date: 2017-11-20 03:00-0500\n"
 "Last-Translator: nix1947 <openpy.manoj@gmail.com>\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
@@ -14,7 +14,7 @@ msgstr ""
 "X-Generator: crowdin.com\n"
 "X-Crowdin-Project: pustakalaya\n"
 "X-Crowdin-Language: es-ES\n"
-"X-Crowdin-File: /master/src/locale/ko/LC_MESSAGES/django.po\n"
+"X-Crowdin-File: /master/src/locale/nl/LC_MESSAGES/django.po\n"
 
 #: pustakalaya/settings/base.py:219
 #: pustakalaya_apps/core/abstract_models.py:135
